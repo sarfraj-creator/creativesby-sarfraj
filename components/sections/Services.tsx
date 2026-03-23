@@ -61,7 +61,7 @@ const services = [
   {
     title: "SEO Landing Pages",
     desc: "High-converting landing pages built for Google — 90+ Lighthouse, schema & Core Web Vitals.",
-    img: "https://images.unsplash.com/photo-1432888622747-4eb9a8f2c293?w=600&q=75&auto=format&fit=crop",
+    img: "https://plus.unsplash.com/premium_photo-1684356820128-4c28da6d29df?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHNlb3xlbnwwfHwwfHx8MA%3D%3D",
     tag: "SEO",
   },
   {

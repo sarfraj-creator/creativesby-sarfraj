@@ -37,25 +37,24 @@ const PROJECTS = [
     context: "Web Developer · Zencommerce India",
     desc: "Custom WooCommerce store — PHP theme from scratch, dynamic product filters, mobile-first checkout. Conversion rate doubled after launch.",
     /* Flowers / plants image */
-    img: "https://images.unsplash.com/photo-1487530811015-780b6b9c93bc?w=800&q=80&auto=format&fit=crop",
+    img: "https://plus.unsplash.com/premium_photo-1671915835768-34183674970a?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     tags: ["WordPress","WooCommerce","PHP","Custom Theme"],
     live: "https://manipalflora.com",
     metric: "2× conversions",
     accent: "#3DBFBC",
   },
-  {
-    title: "mbacet.in",
-    type: "Lead Generation Portal",
-    year: "2023",
-    context: "Web Developer · Zencommerce India",
-    desc: "Mobile-first MBA/CET landing pages with automated Google Sheets lead capture. Lead volume tripled in first 30 days.",
-    /* Study / exam image */
-    img: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&q=80&auto=format&fit=crop",
-    tags: ["HTML","SCSS","Apps Script","SEO"],
-    live: "https://mbacet.in",
-    metric: "3× leads in 30 days",
-    accent: "#C9A84C",
-  },
+{
+  "title": "DriveHub Autos",
+  "type": "Auto Parts E-commerce",
+  "year": "2023",
+  "context": "Full Stack Developer · Freelance",
+  "desc": "Scalable auto parts e-commerce platform with structured product catalog, advanced search, and seamless checkout experience. Integrated secure payments and optimized performance for high-volume traffic.",
+  "img": "https://images.unsplash.com/photo-1519752594763-2633d8d4ea29?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "tags": ["WordPress","WooCommerce","E-commerce","Performance"],
+  "live": "https://partnests.com/",
+  "metric": "2× sales growth in 60 days",
+  "accent": "#C2410C"
+},
   {
     title: "College Comparison Tool",
     type: "SaaS Web App",

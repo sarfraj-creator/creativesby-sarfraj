@@ -117,9 +117,9 @@ export default function Footer() {
             <p className="text-xs font-mono" style={{color:"var(--text-muted)"}}>
               © {new Date().getFullYear()} Creativesby Sarfraj. All rights reserved.
             </p>
-            <p className="text-xs font-mono" style={{color:"var(--text-muted)"}}>
+            {/* <p className="text-xs font-mono" style={{color:"var(--text-muted)"}}>
               Built with Next.js 14 · Deployed on Vercel
-            </p>
+            </p> */}
           </div>
         </div>
       </footer>
